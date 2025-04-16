@@ -33,7 +33,7 @@ Cyber threats come in many forms. Here are **five common types** of attacks:
    - An attacker intercepts communication between two parties to steal or manipulate data.
    - Example: Eavesdropping on unsecured Wi-Fi.
 
-3. **Email Attacks (Phishing, Spoofing)**
+3. **Phising**
    - Tricking users into revealing sensitive info or installing malware via fake emails.
    - Example: “Your account is at risk – click this link!”
 
@@ -45,3 +45,17 @@ Cyber threats come in many forms. Here are **five common types** of attacks:
    - Malicious software designed to harm, exploit, or steal data.
    - Examples: Viruses, Worms, Ransomware, Trojans.
 
+6. **Drive-By Download Attacks**
+
+   -  Malware is downloaded and installed without the user’s consent when visiting a compromised or malicious website.
+    - Example: Clicking on a pop-up or banner ad on an infected site.
+
+7. **Malvertising**
+
+   - The use of online ads to spread malware.
+   - Example: A seemingly legitimate ad that, when clicked, installs harmful software.
+
+8. **Rogue Software Attacks**
+
+   - Fake security or utility software that tricks users into installing it, often to steal information or install additional malware.
+   - Example: "Your PC is infected! Download this antivirus now!"
